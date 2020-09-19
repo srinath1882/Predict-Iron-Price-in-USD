@@ -17,5 +17,5 @@ sample_submission.csv
 
 
 ## Data Description
-![GitHub Logo](https://github.com/srinath1882/Predict-Iron-Price-in-USD/blob/[branch]/Data Description.JPG?raw=true)
+![GitHub Logo](https://github.com/srinath1882/Predict-Iron-Price-in-USD/blob/master/Data%20Description.JPG?raw=true)
 
